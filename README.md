@@ -47,8 +47,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ### Tema2
 #### Topico3
 * [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
+* [Subtópico 2](#subtopico2)
+<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+<br>
 
 ##### Subtopico1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
