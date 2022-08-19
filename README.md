@@ -158,7 +158,7 @@ Você aprenderá muito sobre esse tipo de dado nas próximas aulas. No momento, 
 
 #### Operadores
 
-samos operadores para relacionar os valores das variáveis e usar os resultados dessas relações a favor do nosso algoritmo. Os operadores podem ser aritméticos, de atribuição ou de comparação. Você pode aprender mais sobre operadores [aqui](https://blog.cod3r.com.br/entenda-operadores-javascript-na-pratica/).
+Usamos operadores para relacionar os valores das variáveis e usar os resultados dessas relações a favor do nosso algoritmo. Os operadores podem ser aritméticos, de atribuição ou de comparação. Você pode aprender mais sobre operadores [aqui](https://blog.cod3r.com.br/entenda-operadores-javascript-na-pratica/).
 
 **Aritméticos:**
 
