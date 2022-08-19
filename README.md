@@ -267,6 +267,8 @@ samos operadores para relacionar os valores das variáveis e usar os resultados 
 | 5 | Receba do usuário 3 números e calcule a média entre eles. |
 | --- | --- |
 
+Os exercícios são de autoria da Simara Conceição.
+
 ### Sobre a prof
 
 <h1 align="center">
