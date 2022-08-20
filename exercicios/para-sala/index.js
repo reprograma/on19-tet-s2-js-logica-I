@@ -180,3 +180,18 @@ const avg = sumGrades/len
 
 console.log ("-Exercicio 9-")
 console.log (avg)
+
+/*
+| Exemplo 10 | Descrição |
+| --- | --- |
+| `conversor de temperatura` | 
+Escreva um programa que recebe a temperatura em graus Celsius 
+e converte para Fahrenheit, exiba o resultado no console. |
+*/
+
+const celsius = 100
+
+const fahr = (celsius * 9 / 5) + 32
+
+console.log ("-Exercício 10-")
+console.log (fahr)
