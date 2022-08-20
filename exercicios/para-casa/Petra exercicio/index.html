@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semana2 - Lógica - Tarefa</title>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+  <body>
+    <nav class="barra-navegacao">
+      <img
+        class="barra-navegacao__logotipo"
+        src="img/logotipo-reprograma.png"
+      />
+    </nav>
+    <header class="cabecalho">
+      <h1 class="cabecalho__titulo">Tarefa da aula 2 - Lógica</h1>
+    </header>
+    <h2 class="questão">1. Preço da mercadoria com desconto de 20%</h2>
+    <br>
+    <label for="preco-mercadoria">Qual o valor da mercadoria?</label>
+    <br>
+    <input type="number" id="preco-mercadoria" value="0"/>
+    <br>
+    <span id="resposta1">Resultado</span>
+    <br>
+    <button onclick="desconto()">Calcular valor com desconto</button>
+
+    <h2 class="questão">2. Tempo despendido na viagem</h2>
+    <br>
+    <label for="distancia-viagem">Qual a distancia percorrida durante a viagem? (em horas)</label>
+    <br>
+    <input type="number" id="distancia-viagem" value="0"/>
+    <br>
+    <label for="velocidade-media">Qual a velocidade média durante a viagem? (em km/h)</label>
+    <br>
+    <input type="number" id="velocidade-media" value="0"/>
+    <br>
+    <span id="resposta2">Resultado</span>
+    <br>
+    <button onclick="tempo()">Calcular tempo da viagem</button>
+    
+    <h2 class="questão">3. Valor total do jantar com taxa de serviço de 10%</h2>
+    <br>
+    <label for="valor-jantar">Qual o valor do jantar?</label>
+    <br>
+    <input type="number" id="valor-jantar" value="0"/>
+    <br>
+    <span id="resposta3">Resultado</span>
+    <br>
+    <button onclick="serviço()">Calcular valor total do jantar</button>
+
+    <h2 class="questão">4. Preço a pagar pelo carro alugado</h2>
+    <br>
+    <label for="km-percorridos">Qual o total de Km percorridos com o carro durante o tempo do aluguel? (em horas)</label>
+    <br>
+    <input type="number" id="km-percorridos" value="0"/>
+    <br>
+    <label for="dias">Por quantos dias você alugou o veículo?</label>
+    <br>
+    <input type="number" id="dias" value="0"/>
+    <br>
+    <span id="resposta4">Resultado</span>
+    <br>
+    <button onclick="aluguel()">Calcular valor do aluguel</button>
+
+    <h2 class="questão">5. Média de 3 números</h2>
+    <br>
+    <label for="numeros">Insira três números para calcular a média entre eles</label>
+    <br>
+    <input type="number" id="n1" value="0"/>
+    <br>
+    <input type="number" id="n2" value="0"/>
+    <br>
+    <input type="number" id="n3" value="0"/>
+    <br>
+    <span id="resposta5">Resultado</span>
+    <br>
+    <button onclick="media()">Calcular a média dos valores</button>
+
+    <h2 for="espaço"></h2>
+    <footer class="rodape">Feito com <a href="index.html">♥</a></footer>
+
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>
