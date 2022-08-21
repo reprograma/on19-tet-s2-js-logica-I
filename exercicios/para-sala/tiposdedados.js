@@ -73,7 +73,7 @@ console.log(`O cálculo do imc é igual a ${imc.toFixed(2)}`)*/
 //Ex.: 9 - Escreva um programa que recebe 4 notas, calcula a média e exibe no console.
 /*
 let notas = [6.7, 8, 10, 5.5]
-let media = (notas[0] + notas[1] + notas[2] + notas[3] / notas.length)
+let media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length
 
 console.log(`A média entre as quatro notas é ${media.toFixed(2)}.`)*/
 
