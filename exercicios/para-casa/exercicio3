@@ -1,0 +1,15 @@
+// 3 - Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
+
+let bebida = 20
+let pratoPrincipal = 100
+let sobremesa = 20
+
+const somarValorJantar = bebida + pratoPrincipal + sobremesa
+const taxaGarcom = somarValorJantar *0.1
+const valorAPagar = somarValorJantar + taxaGarcom
+
+const exibirTotal = `Total: R$ ${valorAPagar}`
+const exibirTaxa = `Taxa: R$ ${taxaGarcom}`
+
+console.log(exibirTaxa)
+console.log(exibirTotal)
