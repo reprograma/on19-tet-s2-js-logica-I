@@ -1,0 +1,13 @@
+//1 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
+
+let valor_do_almoço = 150
+
+let taxa_do_garçom = 0.1 //É A MESMA COISA QUE 10/100
+
+const preçoTotal = valor_do_almoço * +  taxa_do_garçom
+
+console.log( `O valor total é de R$ ${preçoTotal}`)
+
+
+
+
