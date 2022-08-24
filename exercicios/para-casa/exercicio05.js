@@ -1,7 +1,7 @@
 // 5 - Receba do usuários 3 números e calcule a média entre eles.
 
 let numero1 = 6
-let numero2 = 8
+let numero2 = 7
 let numero3 = 3
 let n = 3
 

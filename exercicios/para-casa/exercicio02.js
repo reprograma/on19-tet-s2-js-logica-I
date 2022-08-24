@@ -1,6 +1,6 @@
 // 2 - Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
 
-const distância = 40
+const distância = 50
 let velocidadeMedia = 70
 
 tempo = (velocidadeMedia * distância) / 60
