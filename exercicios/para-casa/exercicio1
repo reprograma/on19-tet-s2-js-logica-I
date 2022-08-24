@@ -1,0 +1,9 @@
+//1 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
+
+let valorProduto = 450
+const descontoProduto = valorProduto * 0.20
+const valorFinal = valorProduto - descontoProduto
+
+const resposta = `O valor da mercadoria é R$ ${(valorFinal).toFixed(2)} e o desconto dado foi de R$ ${(descontoProduto).toFixed(2)}`
+
+console.log(resposta)

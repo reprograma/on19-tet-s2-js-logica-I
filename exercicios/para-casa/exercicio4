@@ -1,0 +1,9 @@
+//4 - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60,00 reais por dia e 0,15 centavos por km rodado.
+
+let kmPercorridos = 300
+let diasDeUso = 7
+const  valorKmRodado = kmPercorridos * 0.15
+const  valorDia = diasDeUso * 60
+const valorTotal = valorKmRodado + valorDia
+
+console.log (`O cliente irá pagar R$ ${(valorKmRodado).toFixed(2)} da kilometragem mais R$ ${(valorDia).toFixed(2)} do valor da diária, dando um total de R$ ${(valorTotal).toFixed(2)}`)
