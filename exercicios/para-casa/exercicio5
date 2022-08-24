@@ -1,0 +1,15 @@
+//5 - Receba do usuários 3 números e calcule a média entre eles.
+
+
+let nota1 = 9
+let nota2 = 6
+let nota3 = 7
+
+ const numDePeriodos = 3 
+ const media = (nota1 + nota2 + nota3) / 3
+
+ console.log(`primeira nota ${nota1} , segunda nota ${nota2}, Terceira nota ${nota3}`)
+
+ console.log (`A média do trimestre é ${media}`) 
+
+

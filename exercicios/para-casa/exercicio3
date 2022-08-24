@@ -1,0 +1,11 @@
+//3 - Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
+
+
+let valorJantar = 120
+let valorGorjeta = valorJantar * 0.10
+const valorTotal = valorJantar + valorGorjeta
+
+const valorConta = `O valor a ser pago pelo jantar é R$ ${(valorJantar).toFixed(2)} acrescido valor da Gorjeta R$ ${(valorGorjeta).toFixed(2)} dando um total de R$ ${(valorTotal).toFixed(2)}`
+
+
+console.log (valorConta)
