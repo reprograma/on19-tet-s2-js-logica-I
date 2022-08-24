@@ -7,4 +7,4 @@ const valorMercadoria = 100
 const valorDoDesconto = valorMercadoria * 0.20
 const valorFinal = valorMercadoria - valorDoDesconto
 console.log(`valor do desconto: R$  ${valorDoDesconto}`)
-console.log(`valor final do produto: R$  ${valorFinal}` )
+console.log(`valor final do produto: R$  ${valorFinal}`)
