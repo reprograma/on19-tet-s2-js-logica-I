@@ -1,0 +1,9 @@
+// 5 - Receba do usuários 3 números e calcule a média entre eles.
+let numero1 = 5
+let numero2 = 10
+let numero3 = 12
+
+const media = (numero1 + numero2 + numero3) / 3
+const exibirMedia = `A média dos números é ${media}`
+
+console.log(exibirMedia)

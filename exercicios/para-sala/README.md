@@ -8,7 +8,7 @@
 
 | Exemplo 02 | Descrição |
 | --- | --- |
-| `Concatenar x interpolar` | Vamos criar variaveis usando let, const, atribuir strings e vamos concatenar e interpolar. |
+| `Concatenar x interpolar` | Vamos criar variaveis usando let, const, atribuir strings e vamos concatenar e interpolar. | 
 
 | Exemplo 03 | Descrição |
 | --- | --- |
