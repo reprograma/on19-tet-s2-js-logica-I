@@ -1,0 +1,6 @@
+const usuarios = [4,7,22]
+const n = 3
+const soma = usuarios [0] + usuarios[1] + usuarios [2]
+const media = soma / n
+
+console.log(media)

@@ -1,0 +1,7 @@
+//Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
+
+const distancia = 720
+const velocidadeMedia = 30
+const tempoDeViagem = distancia / velocidadeMedia
+
+console.log("Viagem de carro " + tempoDeViagem + " horas aproximadamente")

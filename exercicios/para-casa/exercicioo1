@@ -1,0 +1,7 @@
+const Preço = 500
+const Desconto = 0.2
+const ValorDoDesconto = 500 * 0.2
+const ValorFinal = Preço - ValorDoDesconto
+
+console.log ("Valor Total R$" + ValorFinal)
+console.log("Desconto R$" + ValorDoDesconto)

@@ -1,0 +1,6 @@
+const valorJantar = 300
+const taxaDeServico = 0.10 * valorJantar
+const valorTotal = valorJantar + taxaDeServico
+
+console.log(valorTotal)
+console.log(taxaDeServico) 
