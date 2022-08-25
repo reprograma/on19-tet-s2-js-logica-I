@@ -1,0 +1,9 @@
+//Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
+
+Preço = 500
+Desconto = 0.2
+ValorDoDesconto = 500 * 0.2
+ValorFinal = Preço - ValorDoDesconto
+
+console.log ("Valor Total R$" + ValorFinal)
+console.log("Desconto R$" + ValorDoDesconto)
