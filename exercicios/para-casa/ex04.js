@@ -4,8 +4,7 @@
 
 let kmPercorridos = 850
 let diasAluguelCarro = 15
-let valorDiarias = diasAluguelCarro * 60
-let valorKmRodado = kmPercorridos * 0.15
-let valorFinal = valorDiarias + valorKmRodado
+
+const valorFinal = (kmPercorridos * 0.15) + (diasAluguelCarro * 60)
 
 console.log(`O valor total a pagar pelo aluguel do carro é de R$ ${valorFinal.toFixed(2)}`)
