@@ -16,3 +16,8 @@ const media = (primeiraNota + segundaNota + terceiraNota + quartaNota + quintaNo
 
 console.log (media)
 
+let listaDeNotas = [5,6,7,8,10]
+let soma = listaDeNotas[0] + listaDeNotas[1] + listaDeNotas[2] + listaDeNotas[3] + listaDeNotas[4]
+let mediaFinal = (soma) / 5
+console.log(mediaFinal)
+
